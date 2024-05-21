@@ -111,6 +111,9 @@ form input{
         top: 0;
         left: 180px;
     }
+    h3{
+        font-size: 1em;
+    }
 }
 
 @media (max-width: 768px) {
@@ -129,6 +132,9 @@ form input{
     #top3 {
         top: 0;
         left: 150px;
+    }
+    h3{
+        font-size: 0.8em;
     }
 }
 
@@ -151,5 +157,8 @@ form input{
     #top3 {
         top: 0;
         left: 120px;
+    }
+    h3{
+        font-size: 0.5em;
     }
 }
